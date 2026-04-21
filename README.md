@@ -6,6 +6,21 @@ Analyzed a retail dataset to identify sales trends and profitability using Pytho
 ## Dataset
 The dataset contains retail sales transactions including region, category, sales, and profit information.
 
+
+## Problem Statement
+Analyze retail sales data to identify profitable categories, regions, and areas of loss to support business decision-making.
+
+
+## Visualizations
+
+### Profit by Category
+![Profit](profit_by_category.png)
+
+### Sales by Region
+![Region](sales_by_region.png)
+
+
+
 ## Tools Used
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
@@ -27,3 +42,9 @@ The dataset contains retail sales transactions including region, category, sales
 ## Files
 - sales_profit_analysis.ipynb
 - Superstore.csv
+
+
+## Conclusion
+- Technology is the most profitable category
+- West region contributes highest profit
+- Furniture shows significant losses and needs improvement
