@@ -36,7 +36,7 @@ Analyze retail sales data to identify profitable categories, regions, and areas 
 ## Files
 - sales_profit_analysis.ipynb
 - Superstore.csv
-- 
+  
 
 ## Business Recommendations
 - Reduce discounts in Furniture category to minimize losses
