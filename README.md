@@ -1,4 +1,4 @@
-# Sales & Profit Analysis using Python
+# ---------------------Sales & Profit Analysis using Python-----------------
 
 ## Overview
 Analyzed a retail dataset to identify sales trends and profitability using Python.
@@ -50,3 +50,18 @@ Analyze retail sales data to identify profitable categories, regions, and areas 
 - Technology is the most profitable category
 - West region contributes highest profit
 - Furniture shows significant losses and needs improvement
+
+
+
+## -------------------------------------------------- SQL Analysis ---------------------------------------
+
+Performed additional analysis using SQL on the same dataset.
+
+### Key SQL Insights:
+- Calculated total revenue using transactional data
+- Identified top customers and countries by revenue
+- Analyzed best-selling products
+- Examined monthly revenue trends
+
+### Files:
+- `analysis.sql` → Contains all SQL queries used for analysis
