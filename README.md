@@ -1,4 +1,4 @@
-# ---------------------Sales & Profit Analysis using Python-----------------
+# Sales & Profit Analysis using Python
 
 ## Overview
 Analyzed a retail dataset to identify sales trends and profitability using Python.
@@ -53,7 +53,7 @@ Analyze retail sales data to identify profitable categories, regions, and areas 
 
 
 
-## -------------------------------------------------- SQL Analysis ---------------------------------------
+## SQL Analysis 
 
 Performed additional analysis using SQL on the same dataset.
 
